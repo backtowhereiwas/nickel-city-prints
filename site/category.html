@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Category | Hueforge Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero compactHero">
+    <p class="eyebrow"><a href="index.html">← Back to categories</a></p>
+    <h1 id="pageTitle">Category</h1>
+    <p id="pageSubtitle" class="subtitle">Choose a folder to view the available designs.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="searchInput" type="search" placeholder="Search..." autocomplete="off">
+      <button id="clearButton" type="button">Clear</button>
+    </section>
+
+    <p id="resultCount" class="summary">Loading...</p>
+    <section id="grid" class="grid"></section>
+  </main>
+
+  <dialog id="designDialog">
+    <button id="closeDialog" class="closeButton" type="button">×</button>
+    <h2 id="dialogTitle"></h2>
+    <p id="dialogMeta"></p>
+    <img id="dialogImage" alt="">
+  </dialog>
+
+  <template id="collectionTemplate">
+    <a class="card" href="#">
+      <div class="previewWrap">
+        <img class="preview" alt="">
+      </div>
+      <div class="cardBody">
+        <h2></h2>
+        <p class="meta"></p>
+      </div>
+    </a>
+  </template>
+
+  <template id="designTemplate">
+    <article class="card imageCard">
+      <button class="imageButton" type="button">
+        <div class="previewWrap">
+          <img class="preview" alt="">
+        </div>
+        <div class="cardBody">
+          <h2></h2>
+          <p class="meta"></p>
+        </div>
+      </button>
+    </article>
+  </template>
+
+  <script src="category.js"></script>
+</body>
+</html>

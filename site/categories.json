@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Legendary Icons",
+    "slug": "legendary-icons",
+    "count": 7,
+    "collectionCount": 0,
+    "preview": "assets/previews/legendary-icons-3d-printer-stuff-54.png",
+    "hasCollections": false
+  },
+  {
+    "name": "Mickey Mouse",
+    "slug": "mickey-mouse",
+    "count": 15,
+    "collectionCount": 0,
+    "preview": "assets/previews/mickey-mouse-3d-printer-stuff-2024-06-14t110344-907.png",
+    "hasCollections": false
+  },
+  {
+    "name": "Movies & Cartoons",
+    "slug": "movies-cartoons",
+    "count": 75,
+    "collectionCount": 27,
+    "preview": "assets/previews/movies-cartoons-alice-in-wonderland-alice-1.png",
+    "hasCollections": true
+  },
+  {
+    "name": "Sports",
+    "slug": "sports",
+    "count": 3,
+    "collectionCount": 0,
+    "preview": "assets/previews/sports-3d-printer-stuff-27.png",
+    "hasCollections": false
+  },
+  {
+    "name": "Video Games",
+    "slug": "video-games",
+    "count": 4,
+    "collectionCount": 1,
+    "preview": "assets/previews/video-games-minecraft-3d-printer-stuff.png",
+    "hasCollections": true
+  }
+]

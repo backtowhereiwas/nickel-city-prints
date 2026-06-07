@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Collection | Hueforge Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero compactHero">
+    <p class="eyebrow"><a id="backLink" href="index.html">← Back</a></p>
+    <h1 id="pageTitle">Collection</h1>
+    <p class="subtitle">Click a design to see the actual printed-photo view.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="searchInput" type="search" placeholder="Search designs..." autocomplete="off">
+      <button id="clearButton" type="button">Clear</button>
+    </section>
+
+    <p id="resultCount" class="summary">Loading designs...</p>
+    <section id="grid" class="grid galleryGrid"></section>
+  </main>
+
+  <dialog id="designDialog">
+    <button id="closeDialog" class="closeButton" type="button">×</button>
+    <h2 id="dialogTitle"></h2>
+    <p id="dialogMeta"></p>
+    <img id="dialogImage" alt="">
+  </dialog>
+
+  <template id="designTemplate">
+    <article class="card imageCard">
+      <button class="imageButton" type="button">
+        <div class="previewWrap">
+          <img class="preview" alt="">
+        </div>
+        <div class="cardBody">
+          <h2></h2>
+          <p class="meta"></p>
+        </div>
+      </button>
+    </article>
+  </template>
+
+  <script src="collection.js"></script>
+</body>
+</html>

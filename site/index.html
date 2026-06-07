@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hueforge Gallery</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">Custom 3D Printed Hueforge Art</p>
+    <h1>Browse Designs</h1>
+    <p class="subtitle">Choose a category to see what is available.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="searchInput" type="search" placeholder="Search categories..." autocomplete="off">
+      <button id="clearButton" type="button">Clear</button>
+    </section>
+
+    <p id="resultCount" class="summary">Loading categories...</p>
+    <section id="grid" class="grid"></section>
+  </main>
+
+  <template id="cardTemplate">
+    <a class="card" href="#">
+      <div class="previewWrap">
+        <img class="preview" alt="">
+      </div>
+      <div class="cardBody">
+        <h2></h2>
+        <p class="meta"></p>
+      </div>
+    </a>
+  </template>
+
+  <script src="index.js"></script>
+
+<footer style="margin: 50px 0 20px 0; text-align: center; color: #888; font-size: 0.9em; line-height: 1.6;">
+    <p>
+        Many of the designs featured in this gallery are licensed works created by talented artists in the 3D printing community.
+        Physical prints are produced under valid commercial licenses.
+    </p>
+
+    <p>
+        Featured artists include
+        <a href="https://makerworld.com/@LoFi_Layers"
+           target="_blank"
+           rel="noopener noreferrer"
+           style="color: #7dd3fc; text-decoration: none;">
+            LoFi Layers
+        </a>
+        and
+        <a href="https://makerworld.com/@TheHueforgeLady"
+           target="_blank"
+           rel="noopener noreferrer"
+           style="color: #7dd3fc; text-decoration: none;">
+            TheHueforgeLady
+        </a>.
+    </p>
+</footer>
+</body>
+</html>
