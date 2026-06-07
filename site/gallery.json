@@ -144,141 +144,6 @@
     "printed": "assets/printed/legendary-icons-taylor-swift.jpg"
   },
   {
-    "id": "mickey-mouse-3d-printer-stuff-2024-06-14t110344-907",
-    "title": "3D Printer stuff 2024 06 14T110344.907",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-3d-printer-stuff-2024-06-14t110344-907.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-3d-printer-stuff-2024-07-07t101238-713",
-    "title": "3D Printer stuff 2024 07 07T101238.713",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-3d-printer-stuff-2024-07-07t101238-713.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-3d-printer-stuff-2024-07-13t074926-618",
-    "title": "3D Printer stuff 2024 07 13T074926.618",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-3d-printer-stuff-2024-07-13t074926-618.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-daisy-duck-hueforge",
-    "title": "Daisy Duck Hueforge",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-daisy-duck-hueforge.jpg",
-    "printed": "assets/printed/mickey-mouse-daisy-duck-hueforge.jpg"
-  },
-  {
-    "id": "mickey-mouse-daisy-duck-original",
-    "title": "Daisy Duck Original",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-daisy-duck-original.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-goofy-hueforge",
-    "title": "Goofy Hueforge",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-goofy-hueforge.jpg",
-    "printed": "assets/printed/mickey-mouse-goofy-hueforge.jpg"
-  },
-  {
-    "id": "mickey-mouse-goofy-original",
-    "title": "Goofy Original",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-goofy-original.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-imgi-126-2025-01-06-ee85474a62273",
-    "title": "imgi 126 2025 01 06 ee85474a62273",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-imgi-126-2025-01-06-ee85474a62273.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-imgi-139-2025-01-06-35c647e1997fc",
-    "title": "imgi 139 2025 01 06 35c647e1997fc",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-imgi-139-2025-01-06-35c647e1997fc.jpg",
-    "printed": "assets/printed/mickey-mouse-imgi-139-2025-01-06-35c647e1997fc.jpg"
-  },
-  {
-    "id": "mickey-mouse-mickey-mouse-hueforge",
-    "title": "Mickey Mouse Hueforge",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-mickey-mouse-hueforge.jpg",
-    "printed": "assets/printed/mickey-mouse-mickey-mouse-hueforge.jpg"
-  },
-  {
-    "id": "mickey-mouse-mickey-mouse-original",
-    "title": "Mickey Mouse Original",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-mickey-mouse-original.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-minnie-mouse-ballerina-hueforge",
-    "title": "Minnie Mouse Ballerina Hueforge",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-minnie-mouse-ballerina-hueforge.jpg",
-    "printed": "assets/printed/mickey-mouse-minnie-mouse-ballerina-hueforge.jpg"
-  },
-  {
-    "id": "mickey-mouse-minnie-mouse-ballerina-original",
-    "title": "Minnie Mouse Ballerina Original",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-minnie-mouse-ballerina-original.png",
-    "printed": null
-  },
-  {
-    "id": "mickey-mouse-pluto-hueforge",
-    "title": "Pluto Hueforge",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-pluto-hueforge.jpg",
-    "printed": "assets/printed/mickey-mouse-pluto-hueforge.jpg"
-  },
-  {
-    "id": "mickey-mouse-pluto-original",
-    "title": "Pluto Original",
-    "category": "Mickey Mouse",
-    "collection": null,
-    "folder": "Mickey Mouse",
-    "preview": "assets/previews/mickey-mouse-pluto-original.png",
-    "printed": null
-  },
-  {
     "id": "movies-cartoons-alice-in-wonderland-alice-1",
     "title": "Alice 1",
     "category": "Movies & Cartoons",
@@ -565,6 +430,87 @@
     "folder": "Movies & Cartoons\\Looney Toons",
     "preview": "assets/previews/movies-cartoons-looney-toons-wile-e-coyote.png",
     "printed": "assets/printed/movies-cartoons-looney-toons-wile-e-coyote.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-daisy-duck",
+    "title": "Daisy Duck",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-daisy-duck.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-daisy-duck.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-donald-and-daisy-puzzle",
+    "title": "Donald and Daisy Puzzle",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-donald-and-daisy-puzzle.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-donald-and-daisy-puzzle.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-donald-duck",
+    "title": "Donald Duck",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-donald-duck.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-donald-duck.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-goofy",
+    "title": "Goofy",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-goofy.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-goofy.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-mickey-mouse",
+    "title": "Mickey Mouse",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-mickey-mouse.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-mickey-mouse.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-minnie",
+    "title": "Minnie",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-minnie.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-minnie.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-minnie-mouse-ballerina",
+    "title": "Minnie Mouse Ballerina",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-minnie-mouse-ballerina.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-minnie-mouse-ballerina.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-minnie-shadowforge",
+    "title": "Minnie Shadowforge",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-minnie-shadowforge.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-minnie-shadowforge.jpg"
+  },
+  {
+    "id": "movies-cartoons-mickey-mouse-pluto",
+    "title": "Pluto",
+    "category": "Movies & Cartoons",
+    "collection": "Mickey Mouse",
+    "folder": "Movies & Cartoons\\Mickey Mouse",
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-pluto.png",
+    "printed": "assets/printed/movies-cartoons-mickey-mouse-pluto.jpg"
   },
   {
     "id": "movies-cartoons-moana-maui",

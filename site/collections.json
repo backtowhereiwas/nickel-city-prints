@@ -84,6 +84,13 @@
     "preview": "assets/previews/movies-cartoons-looney-toons-bugs-bunny.png"
   },
   {
+    "name": "Mickey Mouse",
+    "slug": "mickey-mouse",
+    "category": "Movies & Cartoons",
+    "count": 9,
+    "preview": "assets/previews/movies-cartoons-mickey-mouse-daisy-duck.png"
+  },
+  {
     "name": "Moana",
     "slug": "moana",
     "category": "Movies & Cartoons",
