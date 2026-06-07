@@ -238,6 +238,13 @@
     "preview": "assets/previews/video-games-destiny-3d-printer-stuff-69.png"
   },
   {
+    "name": "Fortnite",
+    "slug": "fortnite",
+    "category": "Video Games",
+    "count": 2,
+    "preview": "assets/previews/video-games-fortnite-jonesy.png"
+  },
+  {
     "name": "God of War",
     "slug": "god-of-war",
     "category": "Video Games",
@@ -252,10 +259,24 @@
     "preview": "assets/previews/video-games-minecraft-chicken-jockey.png"
   },
   {
+    "name": "Super Mario Bros",
+    "slug": "super-mario-bros",
+    "category": "Video Games",
+    "count": 15,
+    "preview": "assets/previews/video-games-super-mario-bros-bowser.png"
+  },
+  {
     "name": "The Legend of Zelda",
     "slug": "the-legend-of-zelda",
     "category": "Video Games",
     "count": 2,
-    "preview": "assets/previews/video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t114200-409.png"
+    "preview": "assets/previews/video-games-the-legend-of-zelda-link.png"
+  },
+  {
+    "name": "Video Game Systems",
+    "slug": "video-game-systems",
+    "category": "Video Games",
+    "count": 4,
+    "preview": "assets/previews/video-games-video-game-systems-atari.png"
   }
 ]

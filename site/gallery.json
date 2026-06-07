@@ -1053,6 +1053,24 @@
     "printed": null
   },
   {
+    "id": "video-games-fortnite-jonesy",
+    "title": "Jonesy",
+    "category": "Video Games",
+    "collection": "Fortnite",
+    "folder": "Video Games\\Fortnite",
+    "preview": "assets/previews/video-games-fortnite-jonesy.png",
+    "printed": "assets/printed/video-games-fortnite-jonesy.jpg"
+  },
+  {
+    "id": "video-games-fortnite-llama",
+    "title": "Llama",
+    "category": "Video Games",
+    "collection": "Fortnite",
+    "folder": "Video Games\\Fortnite",
+    "preview": "assets/previews/video-games-fortnite-llama.png",
+    "printed": "assets/printed/video-games-fortnite-llama.jpg"
+  },
+  {
     "id": "video-games-god-of-war-3d-printer-stuff-2024-06-22t115354-287",
     "title": "3D Printer stuff 2024 06 22T115354.287",
     "category": "Video Games",
@@ -1098,21 +1116,192 @@
     "printed": "assets/printed/video-games-minecraft-steve.jpg"
   },
   {
-    "id": "video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t114200-409",
-    "title": "3D Printer stuff 2024 06 16T114200.409",
+    "id": "video-games-super-mario-bros-bowser",
+    "title": "Bowser",
     "category": "Video Games",
-    "collection": "The Legend of Zelda",
-    "folder": "Video Games\\The Legend of Zelda",
-    "preview": "assets/previews/video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t114200-409.png",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-bowser.png",
+    "printed": "assets/printed/video-games-super-mario-bros-bowser.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-fire-mario",
+    "title": "Fire Mario",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-fire-mario.png",
+    "printed": "assets/printed/video-games-super-mario-bros-fire-mario.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-halloween-peach",
+    "title": "Halloween Peach",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-halloween-peach.png",
+    "printed": "assets/printed/video-games-super-mario-bros-halloween-peach.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-larry-koopa",
+    "title": "Larry Koopa",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-larry-koopa.png",
+    "printed": "assets/printed/video-games-super-mario-bros-larry-koopa.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-luigi",
+    "title": "Luigi",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-luigi.png",
+    "printed": "assets/printed/video-games-super-mario-bros-luigi.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-luigi-kart",
+    "title": "Luigi Kart",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-luigi-kart.png",
+    "printed": "assets/printed/video-games-super-mario-bros-luigi-kart.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-luigi-pooping",
+    "title": "Luigi Pooping",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-luigi-pooping.png",
+    "printed": "assets/printed/video-games-super-mario-bros-luigi-pooping.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-mario-kart",
+    "title": "Mario Kart",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-mario-kart.png",
+    "printed": "assets/printed/video-games-super-mario-bros-mario-kart.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-mario-pooping",
+    "title": "Mario Pooping",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-mario-pooping.png",
+    "printed": "assets/printed/video-games-super-mario-bros-mario-pooping.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-princess-peach",
+    "title": "Princess Peach",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-princess-peach.png",
     "printed": null
   },
   {
-    "id": "video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t115603-216",
-    "title": "3D Printer stuff 2024 06 16T115603.216",
+    "id": "video-games-super-mario-bros-toad",
+    "title": "Toad",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-toad.png",
+    "printed": "assets/printed/video-games-super-mario-bros-toad.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-waluigi-pooping",
+    "title": "Waluigi Pooping",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-waluigi-pooping.png",
+    "printed": "assets/printed/video-games-super-mario-bros-waluigi-pooping.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-wario",
+    "title": "Wario",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-wario.png",
+    "printed": "assets/printed/video-games-super-mario-bros-wario.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-wario-pooping",
+    "title": "Wario Pooping",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-wario-pooping.png",
+    "printed": "assets/printed/video-games-super-mario-bros-wario-pooping.jpg"
+  },
+  {
+    "id": "video-games-super-mario-bros-yoshi",
+    "title": "Yoshi",
+    "category": "Video Games",
+    "collection": "Super Mario Bros",
+    "folder": "Video Games\\Super Mario Bros",
+    "preview": "assets/previews/video-games-super-mario-bros-yoshi.png",
+    "printed": "assets/printed/video-games-super-mario-bros-yoshi.jpg"
+  },
+  {
+    "id": "video-games-the-legend-of-zelda-link",
+    "title": "Link",
     "category": "Video Games",
     "collection": "The Legend of Zelda",
     "folder": "Video Games\\The Legend of Zelda",
-    "preview": "assets/previews/video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t115603-216.png",
-    "printed": null
+    "preview": "assets/previews/video-games-the-legend-of-zelda-link.png",
+    "printed": "assets/printed/video-games-the-legend-of-zelda-link.jpg"
+  },
+  {
+    "id": "video-games-the-legend-of-zelda-zelda",
+    "title": "Zelda",
+    "category": "Video Games",
+    "collection": "The Legend of Zelda",
+    "folder": "Video Games\\The Legend of Zelda",
+    "preview": "assets/previews/video-games-the-legend-of-zelda-zelda.png",
+    "printed": "assets/printed/video-games-the-legend-of-zelda-zelda.jpg"
+  },
+  {
+    "id": "video-games-video-game-systems-atari",
+    "title": "Atari",
+    "category": "Video Games",
+    "collection": "Video Game Systems",
+    "folder": "Video Games\\Video Game Systems",
+    "preview": "assets/previews/video-games-video-game-systems-atari.png",
+    "printed": "assets/printed/video-games-video-game-systems-atari.jpg"
+  },
+  {
+    "id": "video-games-video-game-systems-playstation",
+    "title": "Playstation",
+    "category": "Video Games",
+    "collection": "Video Game Systems",
+    "folder": "Video Games\\Video Game Systems",
+    "preview": "assets/previews/video-games-video-game-systems-playstation.png",
+    "printed": "assets/printed/video-games-video-game-systems-playstation.jpg"
+  },
+  {
+    "id": "video-games-video-game-systems-sega",
+    "title": "Sega",
+    "category": "Video Games",
+    "collection": "Video Game Systems",
+    "folder": "Video Games\\Video Game Systems",
+    "preview": "assets/previews/video-games-video-game-systems-sega.png",
+    "printed": "assets/printed/video-games-video-game-systems-sega.jpg"
+  },
+  {
+    "id": "video-games-video-game-systems-xbox",
+    "title": "xBox",
+    "category": "Video Games",
+    "collection": "Video Game Systems",
+    "folder": "Video Games\\Video Game Systems",
+    "preview": "assets/previews/video-games-video-game-systems-xbox.png",
+    "printed": "assets/printed/video-games-video-game-systems-xbox.jpg"
   }
 ]
