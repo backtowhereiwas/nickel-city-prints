@@ -1,12 +1,12 @@
 [
   {
-    "id": "legendary-icons-bob-marely",
-    "title": "Bob Marely",
+    "id": "legendary-icons-2pac",
+    "title": "2Pac",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-bob-marely.png",
-    "printed": null
+    "preview": "assets/previews/legendary-icons-2pac.png",
+    "printed": "assets/printed/legendary-icons-2pac.jpg"
   },
   {
     "id": "legendary-icons-bob-marley",
@@ -14,8 +14,17 @@
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-bob-marley.jpg",
+    "preview": "assets/previews/legendary-icons-bob-marley.png",
     "printed": "assets/printed/legendary-icons-bob-marley.jpg"
+  },
+  {
+    "id": "legendary-icons-bruce-lee",
+    "title": "Bruce Lee",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-bruce-lee.png",
+    "printed": "assets/printed/legendary-icons-bruce-lee.jpg"
   },
   {
     "id": "legendary-icons-eminem",
@@ -25,6 +34,24 @@
     "folder": "Legendary Icons",
     "preview": "assets/previews/legendary-icons-eminem.png",
     "printed": "assets/printed/legendary-icons-eminem.jpg"
+  },
+  {
+    "id": "legendary-icons-frank-n-furter",
+    "title": "Frank N Furter",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-frank-n-furter.png",
+    "printed": "assets/printed/legendary-icons-frank-n-furter.jpg"
+  },
+  {
+    "id": "legendary-icons-ice-cube",
+    "title": "Ice Cube",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-ice-cube.png",
+    "printed": "assets/printed/legendary-icons-ice-cube.jpg"
   },
   {
     "id": "legendary-icons-jimi-hendrix",
@@ -43,6 +70,15 @@
     "folder": "Legendary Icons",
     "preview": "assets/previews/legendary-icons-kobe-bryant.png",
     "printed": "assets/printed/legendary-icons-kobe-bryant.jpg"
+  },
+  {
+    "id": "legendary-icons-kool-aid-man",
+    "title": "Kool Aid Man",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-kool-aid-man.png",
+    "printed": "assets/printed/legendary-icons-kool-aid-man.jpg"
   },
   {
     "id": "legendary-icons-kurt-cobain",
@@ -369,6 +405,15 @@
     "printed": "assets/printed/movies-cartoons-beauty-and-the-beast-lumi\u00e8re.jpg"
   },
   {
+    "id": "movies-cartoons-big-hero-6-baymax",
+    "title": "Baymax",
+    "category": "Movies & Cartoons",
+    "collection": "Big Hero 6",
+    "folder": "Movies & Cartoons\\Big Hero 6",
+    "preview": "assets/previews/movies-cartoons-big-hero-6-baymax.png",
+    "printed": "assets/printed/movies-cartoons-big-hero-6-baymax.jpg"
+  },
+  {
     "id": "movies-cartoons-cars-lightning-mcqueen",
     "title": "Lightning McQueen",
     "category": "Movies & Cartoons",
@@ -468,6 +513,60 @@
     "printed": "assets/printed/movies-cartoons-how-to-train-your-dragon-hiccup-and-toothless.jpg"
   },
   {
+    "id": "movies-cartoons-looney-toons-bugs-bunny",
+    "title": "Bugs Bunny",
+    "category": "Movies & Cartoons",
+    "collection": "Looney Toons",
+    "folder": "Movies & Cartoons\\Looney Toons",
+    "preview": "assets/previews/movies-cartoons-looney-toons-bugs-bunny.png",
+    "printed": "assets/printed/movies-cartoons-looney-toons-bugs-bunny.jpg"
+  },
+  {
+    "id": "movies-cartoons-looney-toons-daffy-duck",
+    "title": "Daffy Duck",
+    "category": "Movies & Cartoons",
+    "collection": "Looney Toons",
+    "folder": "Movies & Cartoons\\Looney Toons",
+    "preview": "assets/previews/movies-cartoons-looney-toons-daffy-duck.png",
+    "printed": "assets/printed/movies-cartoons-looney-toons-daffy-duck.jpg"
+  },
+  {
+    "id": "movies-cartoons-looney-toons-marvin-the-martian",
+    "title": "Marvin the Martian",
+    "category": "Movies & Cartoons",
+    "collection": "Looney Toons",
+    "folder": "Movies & Cartoons\\Looney Toons",
+    "preview": "assets/previews/movies-cartoons-looney-toons-marvin-the-martian.png",
+    "printed": "assets/printed/movies-cartoons-looney-toons-marvin-the-martian.jpg"
+  },
+  {
+    "id": "movies-cartoons-looney-toons-tazmanian-devil",
+    "title": "Tazmanian Devil",
+    "category": "Movies & Cartoons",
+    "collection": "Looney Toons",
+    "folder": "Movies & Cartoons\\Looney Toons",
+    "preview": "assets/previews/movies-cartoons-looney-toons-tazmanian-devil.png",
+    "printed": "assets/printed/movies-cartoons-looney-toons-tazmanian-devil.jpg"
+  },
+  {
+    "id": "movies-cartoons-looney-toons-tweety-bird",
+    "title": "Tweety Bird",
+    "category": "Movies & Cartoons",
+    "collection": "Looney Toons",
+    "folder": "Movies & Cartoons\\Looney Toons",
+    "preview": "assets/previews/movies-cartoons-looney-toons-tweety-bird.png",
+    "printed": "assets/printed/movies-cartoons-looney-toons-tweety-bird.jpg"
+  },
+  {
+    "id": "movies-cartoons-looney-toons-wile-e-coyote",
+    "title": "Wile E Coyote",
+    "category": "Movies & Cartoons",
+    "collection": "Looney Toons",
+    "folder": "Movies & Cartoons\\Looney Toons",
+    "preview": "assets/previews/movies-cartoons-looney-toons-wile-e-coyote.png",
+    "printed": "assets/printed/movies-cartoons-looney-toons-wile-e-coyote.jpg"
+  },
+  {
     "id": "movies-cartoons-moana-maui",
     "title": "Maui",
     "category": "Movies & Cartoons",
@@ -549,6 +648,15 @@
     "printed": "assets/printed/movies-cartoons-peter-pan-tinkerbell.jpg"
   },
   {
+    "id": "movies-cartoons-pinocchio-pinocchio",
+    "title": "Pinocchio",
+    "category": "Movies & Cartoons",
+    "collection": "Pinocchio",
+    "folder": "Movies & Cartoons\\Pinocchio",
+    "preview": "assets/previews/movies-cartoons-pinocchio-pinocchio.png",
+    "printed": "assets/printed/movies-cartoons-pinocchio-pinocchio.jpg"
+  },
+  {
     "id": "movies-cartoons-pirates-of-the-caribbean-jack-sparrow",
     "title": "Jack Sparrow",
     "category": "Movies & Cartoons",
@@ -583,6 +691,51 @@
     "folder": "Movies & Cartoons\\Roger Rabbit",
     "preview": "assets/previews/movies-cartoons-roger-rabbit-roger-rabbit.png",
     "printed": "assets/printed/movies-cartoons-roger-rabbit-roger-rabbit.jpg"
+  },
+  {
+    "id": "movies-cartoons-scooby-doo-daphne",
+    "title": "Daphne",
+    "category": "Movies & Cartoons",
+    "collection": "Scooby Doo",
+    "folder": "Movies & Cartoons\\Scooby Doo",
+    "preview": "assets/previews/movies-cartoons-scooby-doo-daphne.png",
+    "printed": "assets/printed/movies-cartoons-scooby-doo-daphne.jpg"
+  },
+  {
+    "id": "movies-cartoons-scooby-doo-fred",
+    "title": "Fred",
+    "category": "Movies & Cartoons",
+    "collection": "Scooby Doo",
+    "folder": "Movies & Cartoons\\Scooby Doo",
+    "preview": "assets/previews/movies-cartoons-scooby-doo-fred.png",
+    "printed": "assets/printed/movies-cartoons-scooby-doo-fred.jpg"
+  },
+  {
+    "id": "movies-cartoons-scooby-doo-scooby-doo",
+    "title": "Scooby Doo",
+    "category": "Movies & Cartoons",
+    "collection": "Scooby Doo",
+    "folder": "Movies & Cartoons\\Scooby Doo",
+    "preview": "assets/previews/movies-cartoons-scooby-doo-scooby-doo.png",
+    "printed": "assets/printed/movies-cartoons-scooby-doo-scooby-doo.jpg"
+  },
+  {
+    "id": "movies-cartoons-scooby-doo-shaggy",
+    "title": "Shaggy",
+    "category": "Movies & Cartoons",
+    "collection": "Scooby Doo",
+    "folder": "Movies & Cartoons\\Scooby Doo",
+    "preview": "assets/previews/movies-cartoons-scooby-doo-shaggy.png",
+    "printed": "assets/printed/movies-cartoons-scooby-doo-shaggy.jpg"
+  },
+  {
+    "id": "movies-cartoons-scooby-doo-velma",
+    "title": "Velma",
+    "category": "Movies & Cartoons",
+    "collection": "Scooby Doo",
+    "folder": "Movies & Cartoons\\Scooby Doo",
+    "preview": "assets/previews/movies-cartoons-scooby-doo-velma.png",
+    "printed": "assets/printed/movies-cartoons-scooby-doo-velma.jpg"
   },
   {
     "id": "movies-cartoons-snow-white-snow-white",
@@ -918,66 +1071,102 @@
     "printed": "assets/printed/movies-cartoons-winnie-the-pooh-winnie-the-pooh.jpg"
   },
   {
-    "id": "sports-3d-printer-stuff-27",
-    "title": "3D Printer stuff (27)",
+    "id": "sports-buffalo-bills",
+    "title": "Buffalo Bills",
     "category": "Sports",
     "collection": null,
     "folder": "Sports",
-    "preview": "assets/previews/sports-3d-printer-stuff-27.png",
-    "printed": null
+    "preview": "assets/previews/sports-buffalo-bills.jpg",
+    "printed": "assets/printed/sports-buffalo-bills.jpg"
   },
   {
-    "id": "sports-il-fullxfull-6124844196-gxwf",
-    "title": "il fullxfull.6124844196 gxwf",
+    "id": "sports-harley-davidson",
+    "title": "Harley Davidson",
     "category": "Sports",
     "collection": null,
     "folder": "Sports",
-    "preview": "assets/previews/sports-il-fullxfull-6124844196-gxwf.jpg",
-    "printed": "assets/printed/sports-il-fullxfull-6124844196-gxwf.jpg"
+    "preview": "assets/previews/sports-harley-davidson.jpg",
+    "printed": "assets/printed/sports-harley-davidson.jpg"
   },
   {
-    "id": "sports-il-fullxfull-6474346064-3ft1",
-    "title": "il fullxfull.6474346064 3ft1",
-    "category": "Sports",
-    "collection": null,
-    "folder": "Sports",
-    "preview": "assets/previews/sports-il-fullxfull-6474346064-3ft1.jpg",
-    "printed": "assets/printed/sports-il-fullxfull-6474346064-3ft1.jpg"
-  },
-  {
-    "id": "video-games-minecraft-3d-printer-stuff",
-    "title": "3D Printer stuff",
+    "id": "video-games-borderlands-lofi-layers-21",
+    "title": "LoFi Layers (21)",
     "category": "Video Games",
-    "collection": "Minecraft",
-    "folder": "Video Games\\Minecraft",
-    "preview": "assets/previews/video-games-minecraft-3d-printer-stuff.png",
+    "collection": "Borderlands",
+    "folder": "Video Games\\Borderlands",
+    "preview": "assets/previews/video-games-borderlands-lofi-layers-21.png",
     "printed": null
   },
   {
-    "id": "video-games-minecraft-3d-printer-stuff-91",
-    "title": "3D Printer stuff (91)",
+    "id": "video-games-destiny-3d-printer-stuff-69",
+    "title": "3D Printer stuff (69)",
     "category": "Video Games",
-    "collection": "Minecraft",
-    "folder": "Video Games\\Minecraft",
-    "preview": "assets/previews/video-games-minecraft-3d-printer-stuff-91.png",
+    "collection": "Destiny",
+    "folder": "Video Games\\Destiny",
+    "preview": "assets/previews/video-games-destiny-3d-printer-stuff-69.png",
     "printed": null
   },
   {
-    "id": "video-games-minecraft-3d-printer-stuff-2024-09-17t105506-233",
-    "title": "3D Printer stuff 2024 09 17T105506.233",
+    "id": "video-games-god-of-war-3d-printer-stuff-2024-06-22t115354-287",
+    "title": "3D Printer stuff 2024 06 22T115354.287",
     "category": "Video Games",
-    "collection": "Minecraft",
-    "folder": "Video Games\\Minecraft",
-    "preview": "assets/previews/video-games-minecraft-3d-printer-stuff-2024-09-17t105506-233.png",
+    "collection": "God of War",
+    "folder": "Video Games\\God of War",
+    "preview": "assets/previews/video-games-god-of-war-3d-printer-stuff-2024-06-22t115354-287.png",
     "printed": null
   },
   {
-    "id": "video-games-minecraft-3d-printer-stuff-2025-04-02t112844-772",
-    "title": "3D Printer stuff 2025 04 02T112844.772",
+    "id": "video-games-minecraft-chicken-jockey",
+    "title": "Chicken Jockey",
     "category": "Video Games",
     "collection": "Minecraft",
     "folder": "Video Games\\Minecraft",
-    "preview": "assets/previews/video-games-minecraft-3d-printer-stuff-2025-04-02t112844-772.png",
+    "preview": "assets/previews/video-games-minecraft-chicken-jockey.png",
+    "printed": "assets/printed/video-games-minecraft-chicken-jockey.jpg"
+  },
+  {
+    "id": "video-games-minecraft-creeper",
+    "title": "Creeper",
+    "category": "Video Games",
+    "collection": "Minecraft",
+    "folder": "Video Games\\Minecraft",
+    "preview": "assets/previews/video-games-minecraft-creeper.png",
+    "printed": "assets/printed/video-games-minecraft-creeper.jpg"
+  },
+  {
+    "id": "video-games-minecraft-skeleton",
+    "title": "Skeleton",
+    "category": "Video Games",
+    "collection": "Minecraft",
+    "folder": "Video Games\\Minecraft",
+    "preview": "assets/previews/video-games-minecraft-skeleton.png",
+    "printed": "assets/printed/video-games-minecraft-skeleton.jpg"
+  },
+  {
+    "id": "video-games-minecraft-steve",
+    "title": "Steve",
+    "category": "Video Games",
+    "collection": "Minecraft",
+    "folder": "Video Games\\Minecraft",
+    "preview": "assets/previews/video-games-minecraft-steve.png",
+    "printed": "assets/printed/video-games-minecraft-steve.jpg"
+  },
+  {
+    "id": "video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t114200-409",
+    "title": "3D Printer stuff 2024 06 16T114200.409",
+    "category": "Video Games",
+    "collection": "The Legend of Zelda",
+    "folder": "Video Games\\The Legend of Zelda",
+    "preview": "assets/previews/video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t114200-409.png",
+    "printed": null
+  },
+  {
+    "id": "video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t115603-216",
+    "title": "3D Printer stuff 2024 06 16T115603.216",
+    "category": "Video Games",
+    "collection": "The Legend of Zelda",
+    "folder": "Video Games\\The Legend of Zelda",
+    "preview": "assets/previews/video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t115603-216.png",
     "printed": null
   }
 ]

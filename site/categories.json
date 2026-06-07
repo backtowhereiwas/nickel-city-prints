@@ -2,9 +2,9 @@
   {
     "name": "Legendary Icons",
     "slug": "legendary-icons",
-    "count": 12,
+    "count": 16,
     "collectionCount": 0,
-    "preview": "assets/previews/legendary-icons-bob-marely.png",
+    "preview": "assets/previews/legendary-icons-2pac.png",
     "hasCollections": false
   },
   {
@@ -18,25 +18,25 @@
   {
     "name": "Movies & Cartoons",
     "slug": "movies-cartoons",
-    "count": 75,
-    "collectionCount": 27,
+    "count": 88,
+    "collectionCount": 31,
     "preview": "assets/previews/movies-cartoons-alice-in-wonderland-alice-1.png",
     "hasCollections": true
   },
   {
     "name": "Sports",
     "slug": "sports",
-    "count": 3,
+    "count": 2,
     "collectionCount": 0,
-    "preview": "assets/previews/sports-3d-printer-stuff-27.png",
+    "preview": "assets/previews/sports-buffalo-bills.jpg",
     "hasCollections": false
   },
   {
     "name": "Video Games",
     "slug": "video-games",
-    "count": 4,
-    "collectionCount": 1,
-    "preview": "assets/previews/video-games-minecraft-3d-printer-stuff.png",
+    "count": 9,
+    "collectionCount": 5,
+    "preview": "assets/previews/video-games-borderlands-lofi-layers-21.png",
     "hasCollections": true
   }
 ]

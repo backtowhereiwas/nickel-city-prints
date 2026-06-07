@@ -28,6 +28,13 @@
     "preview": "assets/previews/movies-cartoons-beauty-and-the-beast-beast-1.png"
   },
   {
+    "name": "Big Hero 6",
+    "slug": "big-hero-6",
+    "category": "Movies & Cartoons",
+    "count": 1,
+    "preview": "assets/previews/movies-cartoons-big-hero-6-baymax.png"
+  },
+  {
     "name": "Cars",
     "slug": "cars",
     "category": "Movies & Cartoons",
@@ -70,6 +77,13 @@
     "preview": "assets/previews/movies-cartoons-how-to-train-your-dragon-hiccup-and-toothless.png"
   },
   {
+    "name": "Looney Toons",
+    "slug": "looney-toons",
+    "category": "Movies & Cartoons",
+    "count": 6,
+    "preview": "assets/previews/movies-cartoons-looney-toons-bugs-bunny.png"
+  },
+  {
     "name": "Moana",
     "slug": "moana",
     "category": "Movies & Cartoons",
@@ -98,6 +112,13 @@
     "preview": "assets/previews/movies-cartoons-peter-pan-hook.png"
   },
   {
+    "name": "Pinocchio",
+    "slug": "pinocchio",
+    "category": "Movies & Cartoons",
+    "count": 1,
+    "preview": "assets/previews/movies-cartoons-pinocchio-pinocchio.png"
+  },
+  {
     "name": "Pirates of the Caribbean",
     "slug": "pirates-of-the-caribbean",
     "category": "Movies & Cartoons",
@@ -117,6 +138,13 @@
     "category": "Movies & Cartoons",
     "count": 2,
     "preview": "assets/previews/movies-cartoons-roger-rabbit-jessica-rabbit.png"
+  },
+  {
+    "name": "Scooby Doo",
+    "slug": "scooby-doo",
+    "category": "Movies & Cartoons",
+    "count": 5,
+    "preview": "assets/previews/movies-cartoons-scooby-doo-daphne.png"
   },
   {
     "name": "Snow White",
@@ -189,10 +217,38 @@
     "preview": "assets/previews/movies-cartoons-winnie-the-pooh-eeyore-blue.png"
   },
   {
+    "name": "Borderlands",
+    "slug": "borderlands",
+    "category": "Video Games",
+    "count": 1,
+    "preview": "assets/previews/video-games-borderlands-lofi-layers-21.png"
+  },
+  {
+    "name": "Destiny",
+    "slug": "destiny",
+    "category": "Video Games",
+    "count": 1,
+    "preview": "assets/previews/video-games-destiny-3d-printer-stuff-69.png"
+  },
+  {
+    "name": "God of War",
+    "slug": "god-of-war",
+    "category": "Video Games",
+    "count": 1,
+    "preview": "assets/previews/video-games-god-of-war-3d-printer-stuff-2024-06-22t115354-287.png"
+  },
+  {
     "name": "Minecraft",
     "slug": "minecraft",
     "category": "Video Games",
     "count": 4,
-    "preview": "assets/previews/video-games-minecraft-3d-printer-stuff.png"
+    "preview": "assets/previews/video-games-minecraft-chicken-jockey.png"
+  },
+  {
+    "name": "The Legend of Zelda",
+    "slug": "the-legend-of-zelda",
+    "category": "Video Games",
+    "count": 2,
+    "preview": "assets/previews/video-games-the-legend-of-zelda-3d-printer-stuff-2024-06-16t114200-409.png"
   }
 ]
