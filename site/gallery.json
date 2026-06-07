@@ -1,66 +1,111 @@
 [
   {
-    "id": "legendary-icons-3d-printer-stuff-54",
-    "title": "3D Printer stuff (54)",
+    "id": "legendary-icons-bob-marely",
+    "title": "Bob Marely",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-3d-printer-stuff-54.png",
+    "preview": "assets/previews/legendary-icons-bob-marely.png",
     "printed": null
   },
   {
-    "id": "legendary-icons-3d-printer-stuff-2024-06-18t005024-138",
-    "title": "3D Printer stuff 2024 06 18T005024.138",
+    "id": "legendary-icons-bob-marley",
+    "title": "Bob Marley",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-3d-printer-stuff-2024-06-18t005024-138.png",
-    "printed": null
+    "preview": "assets/previews/legendary-icons-bob-marley.jpg",
+    "printed": "assets/printed/legendary-icons-bob-marley.jpg"
   },
   {
-    "id": "legendary-icons-3d-printer-stuff-2024-06-18t005540-467",
-    "title": "3D Printer stuff 2024 06 18T005540.467",
+    "id": "legendary-icons-eminem",
+    "title": "Eminem",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-3d-printer-stuff-2024-06-18t005540-467.png",
-    "printed": null
+    "preview": "assets/previews/legendary-icons-eminem.png",
+    "printed": "assets/printed/legendary-icons-eminem.jpg"
   },
   {
-    "id": "legendary-icons-3d-printer-stuff-2024-11-27t112431-970",
-    "title": "3D Printer stuff 2024 11 27T112431.970",
+    "id": "legendary-icons-jimi-hendrix",
+    "title": "Jimi Hendrix",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-3d-printer-stuff-2024-11-27t112431-970.png",
-    "printed": null
+    "preview": "assets/previews/legendary-icons-jimi-hendrix.png",
+    "printed": "assets/printed/legendary-icons-jimi-hendrix.jpg"
   },
   {
-    "id": "legendary-icons-3d-printer-stuff-2025-02-16t133731-675",
-    "title": "3D Printer stuff 2025 02 16T133731.675",
+    "id": "legendary-icons-kobe-bryant",
+    "title": "Kobe Bryant",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-3d-printer-stuff-2025-02-16t133731-675.png",
-    "printed": null
+    "preview": "assets/previews/legendary-icons-kobe-bryant.png",
+    "printed": "assets/printed/legendary-icons-kobe-bryant.jpg"
   },
   {
-    "id": "legendary-icons-lofi-layers-hueforge-prints-2025-07-29t101521-831",
-    "title": "LoFi Layers Hueforge prints 2025 07 29T101521.831",
+    "id": "legendary-icons-kurt-cobain",
+    "title": "Kurt Cobain",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-lofi-layers-hueforge-prints-2025-07-29t101521-831.png",
-    "printed": null
+    "preview": "assets/previews/legendary-icons-kurt-cobain.png",
+    "printed": "assets/printed/legendary-icons-kurt-cobain.jpg"
   },
   {
-    "id": "legendary-icons-marillyn-watermark",
-    "title": "Marillyn watermark",
+    "id": "legendary-icons-marilyn-monroe",
+    "title": "Marilyn Monroe",
     "category": "Legendary Icons",
     "collection": null,
     "folder": "Legendary Icons",
-    "preview": "assets/previews/legendary-icons-marillyn-watermark.png",
-    "printed": null
+    "preview": "assets/previews/legendary-icons-marilyn-monroe.png",
+    "printed": "assets/printed/legendary-icons-marilyn-monroe.jpg"
+  },
+  {
+    "id": "legendary-icons-michael-jordan",
+    "title": "Michael Jordan",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-michael-jordan.png",
+    "printed": "assets/printed/legendary-icons-michael-jordan.jpg"
+  },
+  {
+    "id": "legendary-icons-ozzy-osbourne",
+    "title": "Ozzy Osbourne",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-ozzy-osbourne.png",
+    "printed": "assets/printed/legendary-icons-ozzy-osbourne.jpg"
+  },
+  {
+    "id": "legendary-icons-prince",
+    "title": "Prince",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-prince.png",
+    "printed": "assets/printed/legendary-icons-prince.jpg"
+  },
+  {
+    "id": "legendary-icons-snoop-dogg",
+    "title": "Snoop Dogg",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-snoop-dogg.png",
+    "printed": "assets/printed/legendary-icons-snoop-dogg.jpg"
+  },
+  {
+    "id": "legendary-icons-taylor-swift",
+    "title": "Taylor Swift",
+    "category": "Legendary Icons",
+    "collection": null,
+    "folder": "Legendary Icons",
+    "preview": "assets/previews/legendary-icons-taylor-swift.png",
+    "printed": "assets/printed/legendary-icons-taylor-swift.jpg"
   },
   {
     "id": "mickey-mouse-3d-printer-stuff-2024-06-14t110344-907",
