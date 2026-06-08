@@ -8,6 +8,14 @@
     "hasCollections": false
   },
   {
+    "name": "Marvel Comics",
+    "slug": "marvel-comics",
+    "count": 16,
+    "collectionCount": 0,
+    "preview": "assets/previews/marvel-comics-black-widow.jpg",
+    "hasCollections": false
+  },
+  {
     "name": "Movies & Cartoons",
     "slug": "movies-cartoons",
     "count": 97,
