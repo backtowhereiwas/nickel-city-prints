@@ -144,148 +144,157 @@
     "printed": "assets/printed/legendary-icons-taylor-swift.jpg"
   },
   {
-    "id": "marvel-comics-black-widow",
+    "id": "marvel-black-widow",
     "title": "Black Widow",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-black-widow.jpg",
-    "printed": "assets/printed/marvel-comics-black-widow.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-black-widow.jpg",
+    "printed": "assets/printed/marvel-black-widow.jpg"
   },
   {
-    "id": "marvel-comics-captain-america-1",
+    "id": "marvel-captain-america-1",
     "title": "Captain America 1",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-captain-america-1.jpg",
-    "printed": "assets/printed/marvel-comics-captain-america-1.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-captain-america-1.jpg",
+    "printed": "assets/printed/marvel-captain-america-1.jpg"
   },
   {
-    "id": "marvel-comics-captain-america-2",
+    "id": "marvel-captain-america-2",
     "title": "Captain America 2",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-captain-america-2.png",
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-captain-america-2.png",
     "printed": null
   },
   {
-    "id": "marvel-comics-deadpool-and-wolverine",
+    "id": "marvel-deadpool-and-wolverine",
     "title": "Deadpool and Wolverine",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-deadpool-and-wolverine.png",
-    "printed": "assets/printed/marvel-comics-deadpool-and-wolverine.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-deadpool-and-wolverine.png",
+    "printed": "assets/printed/marvel-deadpool-and-wolverine.jpg"
   },
   {
-    "id": "marvel-comics-deadpool-love",
+    "id": "marvel-deadpool-love",
     "title": "Deadpool Love",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-deadpool-love.jpg",
-    "printed": "assets/printed/marvel-comics-deadpool-love.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-deadpool-love.jpg",
+    "printed": "assets/printed/marvel-deadpool-love.jpg"
   },
   {
-    "id": "marvel-comics-dr-strange",
+    "id": "marvel-dr-strange",
     "title": "Dr Strange",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-dr-strange.jpg",
-    "printed": "assets/printed/marvel-comics-dr-strange.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-dr-strange.jpg",
+    "printed": "assets/printed/marvel-dr-strange.jpg"
   },
   {
-    "id": "marvel-comics-iron-man-1",
+    "id": "marvel-groot",
+    "title": "Groot",
+    "category": "Marvel",
+    "collection": null,
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-groot.png",
+    "printed": "assets/printed/marvel-groot.jpg"
+  },
+  {
+    "id": "marvel-iron-man-1",
     "title": "Iron Man 1",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-iron-man-1.jpg",
-    "printed": "assets/printed/marvel-comics-iron-man-1.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-iron-man-1.jpg",
+    "printed": "assets/printed/marvel-iron-man-1.jpg"
   },
   {
-    "id": "marvel-comics-iron-man-b-w",
+    "id": "marvel-iron-man-b-w",
     "title": "Iron Man b&w",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-iron-man-b-w.png",
-    "printed": "assets/printed/marvel-comics-iron-man-b-w.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-iron-man-b-w.png",
+    "printed": "assets/printed/marvel-iron-man-b-w.jpg"
   },
   {
-    "id": "marvel-comics-scarlet-witch",
+    "id": "marvel-scarlet-witch",
     "title": "Scarlet Witch",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-scarlet-witch.jpg",
-    "printed": "assets/printed/marvel-comics-scarlet-witch.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-scarlet-witch.jpg",
+    "printed": "assets/printed/marvel-scarlet-witch.jpg"
   },
   {
-    "id": "marvel-comics-spider-man-1",
+    "id": "marvel-spider-man-1",
     "title": "Spider Man 1",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-spider-man-1.jpg",
-    "printed": "assets/printed/marvel-comics-spider-man-1.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-spider-man-1.jpg",
+    "printed": "assets/printed/marvel-spider-man-1.jpg"
   },
   {
-    "id": "marvel-comics-spider-man-b-w",
+    "id": "marvel-spider-man-b-w",
     "title": "Spider Man b&w",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-spider-man-b-w.png",
-    "printed": "assets/printed/marvel-comics-spider-man-b-w.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-spider-man-b-w.png",
+    "printed": "assets/printed/marvel-spider-man-b-w.jpg"
   },
   {
-    "id": "marvel-comics-thanos",
+    "id": "marvel-thanos",
     "title": "Thanos",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-thanos.jpg",
-    "printed": "assets/printed/marvel-comics-thanos.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-thanos.jpg",
+    "printed": "assets/printed/marvel-thanos.jpg"
   },
   {
-    "id": "marvel-comics-the-hulk",
+    "id": "marvel-the-hulk",
     "title": "The Hulk",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-the-hulk.jpg",
-    "printed": "assets/printed/marvel-comics-the-hulk.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-the-hulk.jpg",
+    "printed": "assets/printed/marvel-the-hulk.jpg"
   },
   {
-    "id": "marvel-comics-thor",
+    "id": "marvel-thor",
     "title": "Thor",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-thor.jpg",
-    "printed": "assets/printed/marvel-comics-thor.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-thor.jpg",
+    "printed": "assets/printed/marvel-thor.jpg"
   },
   {
-    "id": "marvel-comics-venom",
+    "id": "marvel-venom",
     "title": "Venom",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-venom.png",
-    "printed": "assets/printed/marvel-comics-venom.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-venom.png",
+    "printed": "assets/printed/marvel-venom.jpg"
   },
   {
-    "id": "marvel-comics-wolverine",
+    "id": "marvel-wolverine",
     "title": "Wolverine",
-    "category": "Marvel Comics",
+    "category": "Marvel",
     "collection": null,
-    "folder": "Marvel Comics",
-    "preview": "assets/previews/marvel-comics-wolverine.png",
-    "printed": "assets/printed/marvel-comics-wolverine.jpg"
+    "folder": "Marvel",
+    "preview": "assets/previews/marvel-wolverine.png",
+    "printed": "assets/printed/marvel-wolverine.jpg"
   },
   {
     "id": "movies-cartoons-alice-in-wonderland-alice-1",
@@ -574,6 +583,15 @@
     "folder": "Movies & Cartoons\\Looney Toons",
     "preview": "assets/previews/movies-cartoons-looney-toons-wile-e-coyote.png",
     "printed": "assets/printed/movies-cartoons-looney-toons-wile-e-coyote.jpg"
+  },
+  {
+    "id": "movies-cartoons-maleficent-maleficent",
+    "title": "Maleficent",
+    "category": "Movies & Cartoons",
+    "collection": "Maleficent",
+    "folder": "Movies & Cartoons\\Maleficent",
+    "preview": "assets/previews/movies-cartoons-maleficent-maleficent.jpg",
+    "printed": "assets/printed/movies-cartoons-maleficent-maleficent.jpg"
   },
   {
     "id": "movies-cartoons-mickey-mouse-daisy-duck",

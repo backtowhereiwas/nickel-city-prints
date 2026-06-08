@@ -8,18 +8,18 @@
     "hasCollections": false
   },
   {
-    "name": "Marvel Comics",
-    "slug": "marvel-comics",
-    "count": 16,
+    "name": "Marvel",
+    "slug": "marvel",
+    "count": 17,
     "collectionCount": 0,
-    "preview": "assets/previews/marvel-comics-black-widow.jpg",
+    "preview": "assets/previews/marvel-black-widow.jpg",
     "hasCollections": false
   },
   {
     "name": "Movies & Cartoons",
     "slug": "movies-cartoons",
-    "count": 97,
-    "collectionCount": 32,
+    "count": 98,
+    "collectionCount": 33,
     "preview": "assets/previews/movies-cartoons-alice-in-wonderland-alice-1.png",
     "hasCollections": true
   },
