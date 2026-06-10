@@ -1116,6 +1116,51 @@
     "printed": "assets/printed/movies-cartoons-toy-story-woody.jpg"
   },
   {
+    "id": "movies-cartoons-transformers-bumblebee",
+    "title": "BumbleBee",
+    "category": "Movies & Cartoons",
+    "collection": "Transformers",
+    "folder": "Movies & Cartoons\\Transformers",
+    "preview": "assets/previews/movies-cartoons-transformers-bumblebee.png",
+    "printed": "assets/printed/movies-cartoons-transformers-bumblebee.jpg"
+  },
+  {
+    "id": "movies-cartoons-transformers-bumblebee-1",
+    "title": "BumbleBee 1",
+    "category": "Movies & Cartoons",
+    "collection": "Transformers",
+    "folder": "Movies & Cartoons\\Transformers",
+    "preview": "assets/previews/movies-cartoons-transformers-bumblebee-1.jpg",
+    "printed": "assets/printed/movies-cartoons-transformers-bumblebee-1.jpg"
+  },
+  {
+    "id": "movies-cartoons-transformers-megatron",
+    "title": "Megatron",
+    "category": "Movies & Cartoons",
+    "collection": "Transformers",
+    "folder": "Movies & Cartoons\\Transformers",
+    "preview": "assets/previews/movies-cartoons-transformers-megatron.png",
+    "printed": "assets/printed/movies-cartoons-transformers-megatron.jpg"
+  },
+  {
+    "id": "movies-cartoons-transformers-optimus-prime",
+    "title": "Optimus Prime",
+    "category": "Movies & Cartoons",
+    "collection": "Transformers",
+    "folder": "Movies & Cartoons\\Transformers",
+    "preview": "assets/previews/movies-cartoons-transformers-optimus-prime.png",
+    "printed": "assets/printed/movies-cartoons-transformers-optimus-prime.jpg"
+  },
+  {
+    "id": "movies-cartoons-transformers-optimus-prime-1",
+    "title": "Optimus Prime 1",
+    "category": "Movies & Cartoons",
+    "collection": "Transformers",
+    "folder": "Movies & Cartoons\\Transformers",
+    "preview": "assets/previews/movies-cartoons-transformers-optimus-prime-1.jpg",
+    "printed": "assets/printed/movies-cartoons-transformers-optimus-prime-1.jpg"
+  },
+  {
     "id": "movies-cartoons-willy-wonka-willy-wonka",
     "title": "Willy Wonka",
     "category": "Movies & Cartoons",
