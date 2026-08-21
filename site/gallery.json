@@ -783,6 +783,15 @@
     "printed": "assets/printed/movies-cartoons-rapunzel-rapunzel.jpg"
   },
   {
+    "id": "movies-cartoons-ratatouille-ratatouille",
+    "title": "Ratatouille",
+    "category": "Movies & Cartoons",
+    "collection": "Ratatouille",
+    "folder": "Movies & Cartoons\\Ratatouille",
+    "preview": "assets/previews/movies-cartoons-ratatouille-ratatouille.jpg",
+    "printed": "assets/printed/movies-cartoons-ratatouille-ratatouille.jpg"
+  },
+  {
     "id": "movies-cartoons-roger-rabbit-jessica-rabbit",
     "title": "Jessica Rabbit",
     "category": "Movies & Cartoons",

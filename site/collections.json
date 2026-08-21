@@ -147,6 +147,13 @@
     "preview": "assets/previews/movies-cartoons-rapunzel-rapunzel.png"
   },
   {
+    "name": "Ratatouille",
+    "slug": "ratatouille",
+    "category": "Movies & Cartoons",
+    "count": 1,
+    "preview": "assets/previews/movies-cartoons-ratatouille-ratatouille.jpg"
+  },
+  {
     "name": "Roger Rabbit",
     "slug": "roger-rabbit",
     "category": "Movies & Cartoons",
