@@ -702,6 +702,33 @@
     "printed": "assets/printed/movies-cartoons-moana-pua.jpg"
   },
   {
+    "id": "movies-cartoons-monsters-inc-mike-wazowski",
+    "title": "Mike Wazowski",
+    "category": "Movies & Cartoons",
+    "collection": "Monsters Inc",
+    "folder": "Movies & Cartoons\\Monsters Inc",
+    "preview": "assets/previews/movies-cartoons-monsters-inc-mike-wazowski.jpg",
+    "printed": "assets/printed/movies-cartoons-monsters-inc-mike-wazowski.jpg"
+  },
+  {
+    "id": "movies-cartoons-monsters-inc-monsters-inc-poster",
+    "title": "Monsters Inc Poster",
+    "category": "Movies & Cartoons",
+    "collection": "Monsters Inc",
+    "folder": "Movies & Cartoons\\Monsters Inc",
+    "preview": "assets/previews/movies-cartoons-monsters-inc-monsters-inc-poster.jpg",
+    "printed": "assets/printed/movies-cartoons-monsters-inc-monsters-inc-poster.jpg"
+  },
+  {
+    "id": "movies-cartoons-monsters-inc-sully",
+    "title": "Sully",
+    "category": "Movies & Cartoons",
+    "collection": "Monsters Inc",
+    "folder": "Movies & Cartoons\\Monsters Inc",
+    "preview": "assets/previews/movies-cartoons-monsters-inc-sully.jpg",
+    "printed": "assets/printed/movies-cartoons-monsters-inc-sully.jpg"
+  },
+  {
     "id": "movies-cartoons-mulan-mulan",
     "title": "Mulan",
     "category": "Movies & Cartoons",

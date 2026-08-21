@@ -105,6 +105,13 @@
     "preview": "assets/previews/movies-cartoons-moana-maui.png"
   },
   {
+    "name": "Monsters Inc",
+    "slug": "monsters-inc",
+    "category": "Movies & Cartoons",
+    "count": 3,
+    "preview": "assets/previews/movies-cartoons-monsters-inc-mike-wazowski.jpg"
+  },
+  {
     "name": "Mulan",
     "slug": "mulan",
     "category": "Movies & Cartoons",
